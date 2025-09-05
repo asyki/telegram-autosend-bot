@@ -22,7 +22,7 @@ A modern Python bot for automatically sending scheduled messages to Telegram cha
 
 ## ⚡ Installation
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/asyki/telegram-autosend-bot
 cd telegram-autosend-bot
 pip install -r requirements.txt
 ```
