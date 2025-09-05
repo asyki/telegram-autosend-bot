@@ -37,25 +37,3 @@ pip install -r requirements.txt
    ```
 3. Edit the code to customize your scheduled messages.
 
----
-
-## 🧩 Dependencies
-- `python-telegram-bot` — Official Telegram Bot API wrapper
-- `aiogram` — Fast and modern Telegram Bot API framework
-- `telethon` — Telegram client library for MTProto
-- `schedule` — Job scheduling for Python
-- `requests` — HTTP library for Python
-
----
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome! Feel free to open issues for feature requests or bug reports.
-
----
-
-## 📄 License
-MIT
-
----
-
-> Made with ❤️ for Telegram automation.
